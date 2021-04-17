@@ -31,9 +31,9 @@ namespace Primzahlen
                 {
                     Console.WriteLine("0 ist keine Primzahl");
                 }
-                else if (zahl == 0)
+                else if (zahl == 1)
                 {
-                    Console.WriteLine("0 ist keine Primzahl");
+                    Console.WriteLine("1 ist keine Primzahl");
                 }
                 else if (Prim)
                 {
